@@ -53,3 +53,15 @@ Python, pandas, NumPy, Matplotlib, Seaborn, and scikit-learn.
 ## License
 
 MIT
+
+
+## Kaggle Results
+
+- **Competition:** [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic)
+- **Kaggle Score:** 0.77272
+- **Model:** Optimized Logistic Regression
+
+## Author
+
+- **Kaggle Profile:** [irodasoibjonova](https://www.kaggle.com/irodasoibjonova)
+- **GitHub Repository:** Titanic Survival Prediction
